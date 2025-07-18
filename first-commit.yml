@@ -1,4 +1,4 @@
-name: My first Workflow
+name: first-commit
 
 on : push
 
